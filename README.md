@@ -42,7 +42,7 @@ profile = {
 | Frontend | Vanilla JS · Cropper.js · Tailwind CSS · SSE Real-time |
 | Infrastructure | Docker · docker-compose · SQLite / PostgreSQL |
 
-**Key Highlights:**
+**Key Highlights**
 - 🤖 **AI Column Classifier** — ResNet18 feature extraction + FAISS similarity search to predict target Excel column from cropped logo
 - 🔍 **GrabCut Object Detection** — OpenCV-based foreground segmentation + Connected Components + NMS to auto-detect logo regions
 - 📊 **Excel Export Engine** — Full-resolution image embedding via openpyxl EMU-based anchoring, preserving artwork quality for production
@@ -55,7 +55,7 @@ profile = {
 
 > Automated Bill of Materials comparison system for global apparel brands, transforming a 4-hour manual process into a 5-minute automated workflow.
 
-**Key Highlights:**
+**Key Highlights**
 - ⏱️ **95% reduction** in processing time (4 hrs → 5 min)
 - 🌐 Standardized unstructured PDF data across **15+ global brands** (VVIC, VIC tiers)
 - 📈 Interactive dashboard with real-time diff-analysis and automated Excel reporting
