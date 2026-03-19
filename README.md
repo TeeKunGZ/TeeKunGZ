@@ -17,12 +17,12 @@
 
 ```python
 profile = {
-    "role":     "Application Specialist (Oracle) Supervisor",
-    "company":  "Nan Yang Textile Group",
-    "location": "Bangkok, Thailand 🇹🇭",
-    "focus":    ["Oracle ERP", "Python Automation", "AI/ML", "Full-Stack Web"],
-    "domain":   ["Garment Manufacturing", "Supply Chain", "Licensing Operations"],
-    "currently_building": "ArtPortal v2 — AI-powered Artwork Mapping System",
+    "role" :     "Application Specialist (Oracle) Supervisor",
+    "company" :  "Nan Yang Textile Group",
+    "location":  "Bangkok, Thailand 🇹🇭",
+    "focus" :    ["Oracle ERP", "Python Automation", "AI/ML", "Full-Stack Web"],
+    "domain" :   ["Garment Manufacturing Process", "Supply Chain Operations", "Bill of Materials (BOM) Comparison", "Excel Template Automation (openpyxl)"],
+    "currently_building" : "ArtPortal v2 — AI-powered Artwork Mapping System",
 }
 ```
 
