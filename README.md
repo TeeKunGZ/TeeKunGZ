@@ -141,3 +141,20 @@ Bansomdejchaopraya Rajabhat University · Class of 2016
 *"The best automation is the one nobody notices is running."*
 
 </div>
+
+---
+
+### 🤖 Talk to My Automation Bot
+> **Want to schedule an interview or ping me instantly?** Scan the QR code or click the badge.
+> This triggers my custom-built API with an asynchronous background task to notify me in real-time.
+
+<div align="center">
+<img src="https://private-user-images.githubusercontent.com/15501709/566450256-ac3c5ffd-3b81-4227-9046-ea8f50971986.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5NDQ4MTQsIm5iZiI6MTc3Mzk0NDUxNCwicGF0aCI6Ii8xNTUwMTcwOS81NjY0NTAyNTYtYWMzYzVmZmQtM2I4MS00MjI3LTkwNDYtZWE4ZjUwOTcxOTg2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzE5VDE4MjE1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlM2ZiNTJiYjYyN2IwMjNkNzg5NWUwZGFkNTBiYjBlNDdjNzFhMGI5NjVlNjkyYmM5NzJlMDEzYWYxYmViOTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tnGzka8j2K5lBMBpGnZ54mVCY5ehCV7YxGnted4sufk" width="150" alt="API QR Code">
+
+<br>
+
+[![Hire Me API](https://img.shields.io/badge/POST_%2Fhire--me-Launch_Bot-6366f1?style=for-the-badge&logo=fastapi)](https://sahachai-hr-notify-bot.onrender.com/)
+
+*Self-hosted FastAPI Service with Discord Webhook Integration*
+
+</div>
