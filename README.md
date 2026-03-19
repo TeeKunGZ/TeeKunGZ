@@ -17,7 +17,7 @@
 
 ```python
 profile = {
-    "role":     "SPV. Application Specialist (Oracle)",
+    "role":     "Application Specialist (Oracle) Supervisor",
     "company":  "Nan Yang Textile Group",
     "location": "Bangkok, Thailand 🇹🇭",
     "focus":    ["Oracle ERP", "Python Automation", "AI/ML", "Full-Stack Web"],
