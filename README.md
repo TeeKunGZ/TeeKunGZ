@@ -49,6 +49,13 @@ profile = {
 - ⚡ **90% reduction** in server startup time via Lazy Loading AI model initialization
 - 🔄 **Real-time AI Monitor** via Server-Sent Events (SSE) — live status for all AI/ML modules
 
+<img width="1912" height="949" alt="image" src="https://github.com/user-attachments/assets/b672d3e7-9516-43a3-9595-4cbc2f2945d6" />
+<img width="1912" height="948" alt="image" src="https://github.com/user-attachments/assets/5ef0ba85-0902-4f4c-b3e6-7c15c054eff9" />
+<img width="1915" height="486" alt="image" src="https://github.com/user-attachments/assets/11c20bff-7d1d-4647-a389-c34e4044e9f9" />
+
+
+
+
 ---
 
 ### 📋 BOM Comparison — Tech Pack Automation
@@ -60,6 +67,14 @@ profile = {
 - 🌐 Standardized unstructured PDF data across **15+ global brands** (VVIC, VIC tiers)
 - 📈 Interactive dashboard with real-time diff-analysis and automated Excel reporting
 - 🔗 Fuzzy Matching (thefuzz) for intelligent field mapping across inconsistent formats
+
+<img width="1913" height="953" alt="image" src="https://github.com/user-attachments/assets/76d2392e-bcce-4ff5-a7c6-0ae44eed5ad0" />
+<img width="1914" height="947" alt="image" src="https://github.com/user-attachments/assets/178da591-1fc2-4ccd-98a2-4dea94a35efd" />
+<img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/36311ac9-4a7e-44b8-b208-8f5f94f8f772" />
+<img width="1916" height="953" alt="image" src="https://github.com/user-attachments/assets/6c14dd26-af3c-4aae-aaa2-62353b53eaf3" />
+<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/effe028d-ad21-48df-b34f-039787308ee1" />
+
+
 
 ---
 
