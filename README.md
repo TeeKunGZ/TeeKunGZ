@@ -68,11 +68,10 @@ profile = {
 - 📈 Interactive dashboard with real-time diff-analysis and automated Excel reporting
 - 🔗 Fuzzy Matching (thefuzz) for intelligent field mapping across inconsistent formats
 
-<img width="1913" height="953" alt="image" src="https://github.com/user-attachments/assets/76d2392e-bcce-4ff5-a7c6-0ae44eed5ad0" />
-<img width="1914" height="947" alt="image" src="https://github.com/user-attachments/assets/178da591-1fc2-4ccd-98a2-4dea94a35efd" />
-<img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/36311ac9-4a7e-44b8-b208-8f5f94f8f772" />
-<img width="1916" height="953" alt="image" src="https://github.com/user-attachments/assets/6c14dd26-af3c-4aae-aaa2-62353b53eaf3" />
-<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/effe028d-ad21-48df-b34f-039787308ee1" />
+<img width="1906" height="896" alt="image" src="https://github.com/user-attachments/assets/113ab417-1506-4599-b72b-1eaf53e6187f" />
+<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/6572c8e8-f576-4fc7-9e6e-33306284e9ae" />
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/9a17b7b6-1354-43fc-966c-e53a91198f48" />
+
 
 
 
