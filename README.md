@@ -88,6 +88,17 @@ profile = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-3.5-42b883.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6.svg)
+![Vite](https://img.shields.io/badge/Vite-8-646cff.svg)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-06b6d4.svg)
+![Pinia](https://img.shields.io/badge/Pinia-state-ffd859.svg)
+![Pandas](https://img.shields.io/badge/Pandas-2.3+-150458.svg)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-0.11+-yellow.svg)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1.27+-orange.svg)
+![openpyxl](https://img.shields.io/badge/openpyxl-3.1+-lightgrey.svg)
+![Pydantic](https://img.shields.io/badge/Pydantic-v2-e92063.svg)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-2a9d8f.svg)
 
 **AI / Machine Learning**
 
